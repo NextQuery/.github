@@ -46,5 +46,20 @@ NextQuery is a unified cloud platform that empowers developers and businesses wi
 
 ## License
 
+```
+NextQuery LLC License
+Copyright (c) 2025 NextQuery LLC.
+
+This Software is provided "AS IS" without any warranties,
+express or implied. Use of this Software constitutes
+acceptance of the full NextQuery LLC Software License Agreement.
+
+You may use, reproduce, and modify the Software solely for
+integrating with NextQuery Services. Redistribution, reverse
+engineering, or decompilation is prohibited without written consent.
+
+For full license details, please refer to the complete license agreement.
+```
+
 See [NextQuery LLC License](../LICENSE.md).
 
